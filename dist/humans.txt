@@ -3,6 +3,7 @@
 
 # TEAM
 
+    Adapter: Stéphane Akkaoui
     Designer/Developer: Jordan Bowman
     https://www.papayatemplates.com
     @jrdnbwmn
@@ -10,7 +11,7 @@
 
 # THANKS
 
-    <name>
+    Hélène De Amborgi
 
 # TECHNOLOGY COLOPHON
 
