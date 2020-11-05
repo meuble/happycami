@@ -1,4 +1,4 @@
-# HAPYCAMI 🦄
+# HAPPYCAMI 🦄
 
 A small website to let a friends know what gifts await here for here confined brithday...
 
