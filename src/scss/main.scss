@@ -29,3 +29,18 @@
 
 // Utilities
 @import "utilities";
+
+@media screen and (max-width: 900px) {
+  .grid-column.mobile-m {
+    flex-basis: 100%;
+    max-width: 100%;
+
+    &.pb3 {
+      padding-bottom: 0rem;
+    }
+
+    &.pt3 {
+      padding-top: 0rem;
+    }
+  }
+}
